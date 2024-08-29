@@ -1,7 +1,9 @@
 # CREDITS
 
 This is a fork of the `bmc` class by [Baptiste Auguié](https://github.com/tecosaur/BMC/tree/master)
+
 [SeniorMars](https://github.com/SeniorMars/dotfiles/tree/main/latex_template)
+
 [sohamch08](https://github.com/sohamch08/Eye-Candy-Lecture-Notes-Theme)
 
 Go Check them out!
