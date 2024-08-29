@@ -1,0 +1,9 @@
+\contentsline {chapter}{\numberline {1}}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Random Examples}{2}{section.1.1}%
+\contentsline {section}{}{2}{tcb@cnt@Definition.1.1.1}%
+\contentsline {section}{ \begin {tabular}{rl} Open Set: & $\bullet $ $\phi $ \\ & $\bullet $ $\DOTSI \bigcupop \slimits@ \limits _{x\in X}B_r(x)$ (Any $r>0$ will do) \\[3mm] & $\bullet $ $B_r(x)$ is open \\ Closed Set: & $\bullet $ $X,\ \phi $ \\ & $\bullet $ $\overline {B_r(x)}$ \\ & $x-$axis $\cup $ $y-$axis \end {tabular}}{2}{tcb@cnt@claim.1.1.1}%
+\contentsline {section}{\numberline {1.2}Random}{3}{section.1.2}%
+\contentsline {section}{$V={\varmathbb {R}}^m$, $p\in \varmathbb {R}_{\geqslant 0}$. Define for $x=(x_1,x_2,\cdots ,x_m)\in \varmathbb {R}^m$ $$\|x\|_p=\Big (|x_1|^p+|x_2|^p+\cdots +|x_m|^p\Big )^{\frac 1p}$$(In school $p=2$)}{3}{Item.3}%
+\contentsline {section}{}{4}{tcb@cnt@Example.1.2.1}%
+\contentsline {section}{\numberline {1.3}Algorithms}{5}{section.1.3}%
+\contentsfinish 
